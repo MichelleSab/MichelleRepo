@@ -1,3 +1,4 @@
+<img align="center" src="https://github.com/MichelleSab/MichelleSab/blob/main/imagen%20(1).jpg"/></a>
 
 <h1 align="center">Hi 👋, I'm Michelle</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
