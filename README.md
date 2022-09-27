@@ -18,3 +18,6 @@
 <a href="https://twitter.com/msabucedo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msabucedo" height="30" width="40" /></a>
 </p>
 
+<p align="left">
+<a href="[https://twitter.com/msabucedo](https://www.linkedin.com/in/michelle-sabucedo-3b5733248/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="msabucedo" height="30" width="40" /></a>
+</p>
